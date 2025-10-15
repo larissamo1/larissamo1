@@ -13,7 +13,7 @@
 
 - 💬 Pergunte-me sobre **Análise de dados, consultas SQL, dashboards no Power BI e automatizações com Python**
 
-- 📫 Como entrar em contato comigo **larissamalaquias@gmail.com**
+- 📫 Como entrar em contato comigo **malaquiaslarissa1@gmail.com**
 
 - 📄 Saiba mais sobre minhas experiências [file:///C:/Users/malaq/Downloads/Larissa%20Malaquias-%20Curr%C3%ADculo.pdf](file:///C:/Users/malaq/Downloads/Larissa%20Malaquias-%20Curr%C3%ADculo.pdf)
 
