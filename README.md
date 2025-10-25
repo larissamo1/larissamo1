@@ -1,15 +1,15 @@
-<h1 align="center">Olá 👋, sou Larissa Malaquias</h1>
+<h1 align="center">Olá, Ol 👋, sou Larissa Malaquias</h1>
 <h3 align="center">DBA e Analista de Dados | Estudante de Ciência da Computação e Matemática | Python • SQL • Power BI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larissamo1&label=Profile%20views&color=0e75b6&style=flat" alt="larissamo1" /> </p>
 
-- 🔭 Atualmente estou trabalhando em **Projetos de Administração de Bancos de Dados e Análise de Dados**
+- 🔭 Atualmente estou trabalhando com ** Administração de Bancos de Dados e Análise de Dados**
 
-- 🌱 Atualmente estou aprendendo **Python (Pandas, Matplotlib), SQL, Power BI e Inglês para Ciência de Dados**
+- 🌱 Aprendendo sobre **Python (Pandas, Matplotlib), SQL, Power BI, Oracle e Inglês para Ciência de Dados**
 
-- 👯 Busco colaborar em **Projetos open-source relacionados à análise de dados, automação em Python ou otimização de desempenho em SQL.**
+- 👯 Busco colaborar em **Projetos open-source relacionados à análise de dados.**
 
-- 🤝 Estou procurando ajuda com **Aprimorar minhas habilidades em análise, visualização e engenharia de integração de dados com APIs**
+- 🤝 Estou procurando ajuda com **Aprimorar minhas habilidades em análise, visualização e engenharia de integração de dados**
 
 - 💬 Pergunte-me sobre **Análise de dados, consultas SQL, dashboards no Power BI e automatizações com Python**
 
