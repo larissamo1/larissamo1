@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Ol 👋, sou Larissa Malaquias</h1>
+<h1 align="center">Olá, Olá 👋, sou Larissa Malaquias</h1>
 <h3 align="center">DBA e Analista de Dados | Estudante de Ciência da Computação e Matemática | Python • SQL • Power BI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larissamo1&label=Profile%20views&color=0e75b6&style=flat" alt="larissamo1" /> </p>
